@@ -4,7 +4,7 @@ As a Middle+ Front-End Developer with over 2 years of experience, I am seeking a
 <hr/>
 
 ## <b>Main Stack and Skills:</b>
-<div style="display: flex">
+<!-- <div style="display: flex">
     <ul>
         <li>React.js
         <li>Redux
@@ -26,7 +26,30 @@ As a Middle+ Front-End Developer with over 2 years of experience, I am seeking a
         <li>Clojure
         <li>ClojureScript
     </ul>
-</div>
+</div> -->
+- React.js
+- Redux
+- Sagas
+- intl
+- React Native
+
+<br/>
+
+- babel
+- webpack
+- Vite
+- EcmaScript over ES9
+- JavaScript
+
+<br/>
+
+- Node.js
+- MongoDB
+- Electron
+- Clojure
+- ClojureScript
+
+<br/>
 
 - strong knowledge of front-end development frameworks and methodologies
 - experience with cross-browser compatibility and responsive design
