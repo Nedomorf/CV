@@ -1,6 +1,6 @@
 # Pasko Daniil, 23<br/>[LinkedIn](https://www.linkedin.com/in/daniil-pasko-6774901b8)<br/>danikp01@mail.ru
 ## <b>Objective:</b>
-As a Middle+ Front-End Developer with over 2 years of experience, I am seeking an opportunity to utilize my skills and expertise in developing high-quality mobile and web applications. My past projects have all had the goal of creating user-friendly and engaging applications.
+As a Middle+ Front-End Developer with over 3 years of comercial experience, I am seeking an opportunity to utilize my skills and expertise in developing high-quality mobile and web applications. My past projects have all had the goal of creating user-friendly and engaging applications.
 <hr/>
 
 ## <b>Main Stack and Skills:</b>
@@ -40,11 +40,14 @@ As a Middle+ Front-End Developer with over 2 years of experience, I am seeking a
 - Vite
 - EcmaScript over ES9
 - JavaScript
+- FULL REST
+- e2e, unit tests
 
 <br/>
 
 - Node.js
 - MongoDB
+- Express
 - Electron
 - Clojure
 - ClojureScript
@@ -118,8 +121,8 @@ Bachelor's Degree in Engineering, BNTU FITR, 2021
 ## <b>Languages:</b>
 - Belarusian - Native
 - Russian - Native
-- English - B1-B2
-- Polish - A1-A2
+- English - B1+
+- Polish - A2+
 <hr/>
 
 ## <b>Personal Highlights:</b>
